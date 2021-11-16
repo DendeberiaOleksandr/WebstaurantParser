@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Restaurant Equipment",
+    "subcategories": [
+      {
+        "name": "Commercial Gas Ranges",
+        "page": "/25887/commercial-gas-ranges.html"
+      },
+      {
+        "name": "Commercial Electric Ranges",
+        "page": "/25875/commercial-electric-ranges.html"
+      },
+      {
+        "name": "Commercial Range Parts and Accessories",
+        "page": "/15053/range-parts-and-accessories.html"
+      },
+      {
+        "name": "Countertop Gas Ranges",
+        "page": "/15045/countertop-gas-ranges.html"
+      },
+      {
+        "name": "Countertop Electric Ranges",
+        "page": "/15043/countertop-electric-ranges.html"
+      },
+      {
+        "name": "Induction Cooktops & Cookers",
+        "page": "/15055/countertop-induction-ranges-and-induction-cookers.html"
+      },
+      {
+        "name": "Portable Gas Stoves",
+        "page": "/15051/portable-gas-ranges.html"
+      },
+      {
+        "name": "Portable Electric Burners & Buffet Ranges",
+        "page": "/15049/electric-buffet-ranges.html"
+      },
+      {
+        "name": "Drop-In Ranges",
+        "page": "/35525/drop-in-ranges.html"
+      },
+      {
+        "name": "Mongolian BBQ Grills",
+        "page": "/18851/mongolian-bbq-ranges.html"
+      },
+      {
+        "name": "Stock Pot Ranges and Burners",
+        "page": "/54155/stock-pot-ranges.html"
+      },
+      {
+        "name": "Wok Burners and Wok Ranges",
+        "page": "/15057/wok-ranges.html"
+      },
+      {
+        "name": "Range Parts and Accessories",
+        "page": "/15053/range-parts-and-accessories.html"
+      }
+    ]
+  }
+]
