@@ -9,3 +9,4 @@ Module `parser.py` contains functionality for parsing count of pages(from pagina
 Module `xlsx_writer.py` has one function for writing a list of products to xlsx file. It creates a new file with current time name and writes a data.
 ### GUI
 ![Imgur](https://i.imgur.com/mwCs51s.png)
+GUI is configured in `window.py` module. 
